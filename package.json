@@ -1,0 +1,22 @@
+{
+  "name": "fivem-multi-bot",
+  "version": "1.0.0",
+  "description": "A Fivem multi function bot",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nolfi24/Fivem-Multi-Bot.git"
+  },
+  "author": "Nolfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nolfi24/Fivem-Multi-Bot/issues"
+  },
+  "homepage": "https://github.com/Nolfi24/Fivem-Multi-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fivereborn-query": "^1.0.4",
+    "fs": "0.0.1-security",
+    "mysql2": "^2.2.5"
+  }
+}

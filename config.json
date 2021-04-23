@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "prefix": "-",
+
+    "ip": "localhost",
+    "port": "30120",
+
+    "dbHost": "localhost",
+    "dbUser": "root",
+    "dbName": "vrpfx"
+}
