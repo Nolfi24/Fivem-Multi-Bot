@@ -1,2 +1,6 @@
 # Fivem-Multi-Bot
-A Fivem multi function bot
+A Fivem Multi Function Bot
+
+--
+
+# How To Install
