@@ -1,5 +1,7 @@
 # Fivem-Multi-Bot
 
+Remember to Read the [License File](https://github.com/Nolfi24/Fivem-Multi-Bot/blob/main/LICENSE)
+
 ---
 
 # Features - Fivem Server Functions
