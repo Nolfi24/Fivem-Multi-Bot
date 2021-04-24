@@ -1,5 +1,22 @@
 # Fivem-Multi-Bot
-A Fivem Multi Function Bot
+
+---
+
+# Features - Fivem Server Functions
+
+1. Help Command
+
+2. Ban Players
+
+3. Unban Players
+
+4. Unban All Players
+
+5. Whitelist Players
+
+6. UnWhitelist Players
+
+7. Whitelist All Players
 
 ---
 
