@@ -16,3 +16,11 @@ Installation
 4. Start start.cmd
 
 then you have your bot ready and running
+
+---
+
+# Support
+
+If you need help you can always join my Discord
+
+Invite Link: https://discord.gg/6PHWQHSg4T
