@@ -39,7 +39,8 @@ module.exports.run = async (client, message, args) => {
     let embed = new Discord.MessageEmbed()
     .setColor("RED")
     .setDescription(`**User:** <@${message.author.id}> \n**Banned ID:** ${user_id} \n**Reason:** ${reason}`)
-    .setTimestamp();
+    .setTimestamp()
+    .setFooter("Made By Nolfi");
     message.channel.send(embed)
 }
 
